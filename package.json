@@ -1,11 +1,20 @@
 {
-  "name": "system-logger",
+  "name": "@omegacotech/system-logger",
   "version": "1.0.0",
-  "description": "Simple logger for node systems based on perfect-logger",
+  "description": "The System-Logger library exported as Node.js modules. With system-logger you can improve your application's logs",
   "main": "index.js",
   "scripts": {
     "test": "node tests.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omegacotech/system-logger.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omegacotech/system-logger/issues"
+  },
+  "homepage": "https://github.com/omegacotech/system-logger#readme",
   "keywords": [
     "logger",
     "simple",
@@ -20,21 +29,6 @@
     "name": "Leandro Bellizzi",
     "email": "leandro.bellizzi@outlook.com"
   },
-  "bugs": {
-    "url": "https://github.com/omegacotech/system-logger/issues"
-  },
   "bundledDependencies": false,
-  "deprecated": false,
-  "engines": {
-    "node": ">=4.0.0"
-  },
-  "homepage": "https://github.com/omegacotech/system-logger#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/omegacotech/system-logger"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/omegacotech"
-  },
-  "license": "ISC"
+  "deprecated": false
 }

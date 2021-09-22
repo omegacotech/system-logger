@@ -1,11 +1,5 @@
-# perfect-logger
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fheysulo%2Fperfect-logger.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fheysulo%2Fperfect-logger?ref=badge_shield)
+The System-Logger library exported as Node.js modules. With system-logger you can improve your application's logs
 
-The System-Logger library exported as Node.js modules. With Perfect-Logger you can improve your application's logs
-
-
-## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fheysulo%2Fperfect-logger.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fheysulo%2Fperfect-logger?ref=badge_large)
 =======
 
 ## Highlights
@@ -21,13 +15,13 @@ The System-Logger library exported as Node.js modules. With Perfect-Logger you c
 ## Installation
 Using npm:
 ```
-npm i perfect-logger
+npm i system-logger
 ````
 
 In Node.JS
 ```javascript
-// Load the perfect-logger module
-let logger = require('perfect-logger');
+// Load the system-logger module
+let logger = require('system-logger');
 
 // Configure Settings
 logger.initialize('FrontEndDriver', {
@@ -65,7 +59,7 @@ Sample Log File
 ***************************************************************************************************
 *** 
 *** Module Name          : FrontEndDriver
-*** Project Name         : perfect-logger
+*** Project Name         : system-logger
 *** Version              : 1.6.1
 *** Configured Timezone  : Asia/Colombo
 *** 
@@ -89,7 +83,7 @@ Sample Log File
 *** 
 *** DEPENDENT NPM PACKAGE DETAILS
 *** 
-*** perfect-logger@1.6.1 /home/sulochana/Documents/perfect-logger
+*** system-logger@1.6.1 /home/sulochana/Documents/system-logger
 *** ├── body-parser@1.19.0
 *** ├── popper.js@1.16.0
 *** ├── run-sequence@2.2.1

@@ -1,0 +1,37 @@
+{
+  "name": "sistem-logger",
+  "version": "1.0.0",
+  "description": "Simple logger for node systems based on perfect-logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "keywords": [
+    "logger",
+    "simple",
+    "perfect",
+    "perfect-logger",
+    "simple-logger",
+    "system",
+    "logs",
+    "log"
+  ],
+  "author": {
+    "name": "Leandro Bellizzi",
+    "email": "leandro.bellizzi@outlook.com"
+  },
+  "bugs": {
+    "url": "https://github.com/omegacotech/system-logger/issues"
+  },
+  "bundledDependencies": false,
+  "deprecated": false,
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "homepage": "https://github.com/omegacotech/system-logger#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omegacotech/system-logger"
+  },
+  "license": "ISC"
+}

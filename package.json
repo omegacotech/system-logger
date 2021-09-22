@@ -1,5 +1,5 @@
 {
-  "name": "sistem-logger",
+  "name": "system-logger",
   "version": "1.0.0",
   "description": "Simple logger for node systems based on perfect-logger",
   "main": "index.js",
@@ -32,6 +32,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/omegacotech/system-logger"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/omegacotech"
   },
   "license": "ISC"
 }
